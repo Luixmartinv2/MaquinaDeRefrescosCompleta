@@ -1,0 +1,4 @@
+coca;Coca-Cola;105;3
+fantal;Fanta Limon;210;9
+fantaN;Fanta Naranja;210;4
+sprite;Sprite;120;0

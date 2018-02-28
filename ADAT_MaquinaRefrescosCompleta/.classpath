@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/hibernate-entitymanager-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/hibernate/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/javax.persistence.jar/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/json/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/bson-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongodb-driver-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongodb-driver-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongodb-driver-async-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/mongo-java-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/morphia-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaime.latorre/eclipse-workspace/Librerias/mongo/morphia-1.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/MaquinaRefrescos/Ficheros/lib/hibernate/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

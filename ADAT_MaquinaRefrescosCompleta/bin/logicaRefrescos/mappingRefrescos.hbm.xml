@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="logicaRefrescos.Deposito" table="depositos">
+		<id name="id" type="int">
+			<column name="id" />
+			<generator class="increment" />
+		</id>
+		
+        <property name="nombreMoneda" type="string" column="nombre"/>
+        <property name="valor" type="int" column="valor"/>
+        <property name="cantidad" type="int" column="cantidad"/>
+	</class>
+	
+	
+
+
+	<class name="logicaRefrescos.Dispensador" table="dispensadores">
+		<id name="id" type="int">
+			<column name="id" />
+			<generator class="increment" />
+		</id>
+		
+        <property name="clave" type="string" column="clave"/>
+        <property name="nombreProducto" type="string" column="nombre"/>
+        <property name="precio" type="int" column="precio"/>
+        <property name="cantidad" type="int" column="cantidad"/>
+	</class>
+
+	
+</hibernate-mapping>
